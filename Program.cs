@@ -5,10 +5,10 @@
     static void Main(string[] args) 
     {
         double price = 123.45;
-        Console.WriteLine("価格: " + price.ToString("# .##"));
+        Console.WriteLine("価格: " + price.ToString("#.##"));
+        
     
-    
-    
+   
     
     }
 }
